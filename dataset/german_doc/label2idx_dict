@@ -1,0 +1,1 @@
+{"O": 0, "B-NRM": 1, "I-NRM": 2, "E-NRM": 3, "S-NRM": 4, "B-REG": 5, "I-REG": 6, "E-REG": 7, "S-REG": 8, "B-ORG": 9, "I-ORG": 10, "E-ORG": 11, "S-ORG": 12, "B-RS": 13, "I-RS": 14, "E-RS": 15, "S-RS": 16, "B-LOC": 17, "I-LOC": 18, "E-LOC": 19, "S-LOC": 20, "B-PER": 21, "I-PER": 22, "E-PER": 23, "S-PER": 24, "B-LIT": 25, "I-LIT": 26, "E-LIT": 27, "S-LIT": 28}
